@@ -1,0 +1,11 @@
+{
+  "name": "cloudwatch-logs",
+  "version": "1.0.0",
+  "description": "Skill for querying and tailing AWS CloudWatch logs — search log groups, filter events, run Insights queries, and tail logs in real-time.",
+  "author": {
+    "name": "Matt Ferrante"
+  },
+  "repository": "https://github.com/ferrants/skill-cloudwatch-logs",
+  "license": "MIT",
+  "keywords": ["aws", "cloudwatch", "logs", "debugging", "monitoring"]
+}
